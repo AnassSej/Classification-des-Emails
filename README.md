@@ -1,1 +1,1 @@
-# Classification-des-Emails realise par ANASS SEJJARI ET FATIMA EZZAHRA BAABA
+# Classification des Emails realise par ANASS SEJJARI et FATIMA EZZAHRA BAABA
